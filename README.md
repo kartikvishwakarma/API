@@ -14,7 +14,7 @@ Download file and extract/pulled create "API" directory.
 
 
 ##Start local server.
-	python mamange.py runserver
+	python manage.py runserver
 
 #Get API access
 	open browser and paste url: http://127.0.0.1:8000/dateAPI
