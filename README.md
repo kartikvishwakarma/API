@@ -1,9 +1,9 @@
-#This file describe about project.
+##This file describe about project.
 
 
 Download file and extract/pulled create "API" directory.
 
-#goto API directory.
+##goto API directory.
 	cd ./API
 
 	this directory contains following.
@@ -13,7 +13,7 @@ Download file and extract/pulled create "API" directory.
 	manage.py: base file to start server,  create apps, migrations ... many more
 
 
-#Start local server.
+##Start local server.
 	python mamange.py runserver
 
 #Get API access
